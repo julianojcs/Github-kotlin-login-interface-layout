@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="avatar_image">Avatar Image</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="password">Password:</string>
+    <string name="username_email_com">username@email.com</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+</resources>
